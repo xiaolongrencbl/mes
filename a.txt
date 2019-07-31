@@ -4,10 +4,6 @@
 
 
 43434
-3333333333
-public void add1{
-	add(1)
-}
 
 public void add2{
 	add(2)
